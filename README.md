@@ -3,7 +3,7 @@ Discente: Paulo Henrique Schulz
 Docente: Amanda Paul Dull
 
 Simular no Tinkercad:
-https://www.tinkercad.com/things/eLLq1EAOn2l-frantic-habbi-lappi/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall
+https://www.tinkercad.com/things/eLLq1EAOn2l-frantic-habbi-lappi/
 
 Enunciado: Vamos ligar o LED!
 O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
